@@ -1,6 +1,10 @@
 ![mar](https://itmsolucions.es/israeltenamarti/img/mar.jpg)
 
-### Hola 👋, soy Israel Tena Martí. Informático, Administrador de Sistemas y Fronted & Backed Developer.
+### Hola 👋, soy Israel Tena Martí.
+
+### Informático, Administrador de Sistemas y Fronted & Backed Developer. 💻
+
+---
 
 Mi experiencia profesional me ha permitido conocer diferentes ramas dentro de la infraestructura IT de las empresas, tanto a nivel de Administración de Sistemas, Programación Frontend y Backend, Consultoría, Migraciones, Asistencia y Soporte, etc…
 
