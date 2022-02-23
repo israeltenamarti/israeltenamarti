@@ -1,9 +1,5 @@
-![mar](https://itmsolucions.es/israeltenamarti/img/mar.jpg)
-
-### Hola 👋, soy Israel Tena Martí.
-
 <div id="header" align="center">
-  <img src="https://itmsolucions.es/israeltenamarti/img/perfil.png" width="60"/> <strong>Hola 👋, soy Israel Tena Martí.</strong>
+  <img src="https://itmsolucions.es/israeltenamarti/img/perfil.png" width="120"/>
 </div>
 
 ### Hola 👋, soy Israel Tena Martí.
