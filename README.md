@@ -3,7 +3,7 @@
 ### Hola 👋, soy Israel Tena Martí.
 
 <div id="header" align="left">
-  <img src="https://itmsolucions.es/israeltamarti/about.jpg" width="60"/> ### Hola 👋, soy Israel Tena Martí.
+  <img src="https://itmsolucions.es/israeltenamarti/about.jpg" width="60"/> <strong>Hola 👋, soy Israel Tena Martí.</strong>
 </div>
 
 ### Informático, Administrador de Sistemas y Fronted & Backed Developer. 💻
