@@ -13,8 +13,8 @@ En el mundo de la programación, mi experiencia es bastante amplia, con más de 
 
 Mi interés actual es continuar creciendo profesionalmente ocupando puestos de responsabilidad en cualquier área de IT.
 
-<div class="home__social">
-                    <a href="https://www.linkedin.com/in/israeltenamarti/" target='_blank' rel='noopener noreferrer' class="home__social-icon"  title='LinkedIn de Israel Tena Marti'><i class='bx bxl-linkedin'></i></a>
+<div id="social">
+                    <a href="https://www.linkedin.com/in/israeltenamarti/" target='_blank' rel='noopener noreferrer' title='LinkedIn de Israel Tena Marti'><img src="https://itmsolucions.es/img/facebook.png.png" width="40"/></a>
                     <a href="https://twitter.com/IsraelTenaMarti" target='_blank' rel='noopener noreferrer' class="home__social-icon"  title='Twitter de Israel Tena Marti'><i class='bx bxl-twitter' ></i></a>
                     <a href="https://github.com/israeltenamarti" target='_blank' rel='noopener noreferrer' class="home__social-icon"  title='Github de Israel Tena Marti'><i class='bx bxl-github' ></i></a>
                     <a href="https://www.facebook.com/IsraelTenaMarti" target='_blank' rel='noopener noreferrer' class="home__social-icon"  title='Facebook de Israel Tena Marti'><i class='bx bxl-facebook'></i></a>
